@@ -1,0 +1,10 @@
+
+h1 {
+    display:inline-block;
+}
+nav {
+   display: inline-block;
+   position:absolute;
+   right:2%;
+   top:5%;
+}
