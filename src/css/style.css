@@ -8,3 +8,8 @@ nav {
    right:2%;
    top:5%;
 }
+figure {
+    position: absolute;
+    right: 20px;
+    text-align: center;
+}
