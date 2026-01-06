@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    
+}
+
+.img{
+    text-align: center;
+    clip-path: circle(43%);
+    shape-outside: circle(40%);
+}
+
+.bloco1{
+    border: 1px solid black;
+    padding: 2px;
+    display: flex;
+}
+

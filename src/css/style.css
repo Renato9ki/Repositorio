@@ -13,3 +13,19 @@ figure {
     right: 20px;
     text-align: center;
 }
+ 
+.link{
+    display: inline-block;
+    position: absolute;
+    top: 61%;
+    padding:0px 0px 0px 150px ;
+
+}
+
+button {
+    background-color: #1E90FF;
+    border-radius: 6px;
+    position: absolute;
+    padding: 2px 15px 2px 15px;
+    color: snow;
+}
