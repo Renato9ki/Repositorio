@@ -13,5 +13,33 @@ h1 {
     border: 1px solid black;
     padding: 2px;
     display: flex;
+    
+}
+
+.container{
+    border: 1px solid black;
+    display: grid;
+    grid-template-rows: 170px 170px 0px 6px;
+     grid-template-columns: auto auto auto;
+     grid-auto-rows: 80px;
+}
+
+.habilidades{
+    border: 1px solid black;
+}
+
+.formacao{
+    border: 1px solid black;
+}
+
+.planos{
+    border: 1px solid black;
+}
+
+.tempo{
+
+    border: 1px solid black;
+    text-align: center;
+    justify-content: space-between;    
 }
 

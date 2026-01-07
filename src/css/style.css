@@ -1,7 +1,26 @@
+body{
+ border: 1px solid black;
+ border-radius: 5px;
+ padding: 1px;
+ 
+}
+
+
+
+
+header{
+    background-color: rgb(5, 153, 104);
+    color: rgb(242, 245, 248);
+    margin: 0%;
+    padding: 10px;
+}
+
+
 
 h1 {
     display:inline-block;
 }
+
 nav {
    display: inline-block;
    position:absolute;
@@ -28,4 +47,8 @@ button {
     position: absolute;
     padding: 2px 15px 2px 15px;
     color: snow;
+}
+
+main{
+    border: 1px solid black;
 }
